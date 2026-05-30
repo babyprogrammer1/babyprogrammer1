@@ -9,6 +9,9 @@ I'm a passionate software developer with a keen interest in web development. I e
 - JavaScript
 - HTML
 - CSS
+- React
+- Bootstrap
+- Tailwindcss
 
 ### Current Work
 - 🔭 I’m currently working on.
@@ -31,7 +34,7 @@ I'm a passionate software developer with a keen interest in web development. I e
 - I am also knowledgeable about HTML, CSS, and JavaScript.
 
 ### Contact
-- 📫 How to reach me: [rafiuayomide1811@gmail.com](mailto:rafiuayomide1811@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 📫 How to reach me: [rafiuayomide1811@gmail.com](mailto:rafiuayomide1811@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rafiuayomidez).
 
 ### Pronouns
 - 😄 Pronouns: She/Her
